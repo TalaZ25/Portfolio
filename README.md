@@ -1,5 +1,5 @@
 # Portfolio
-# Hello! I'm Natalia Zalizna
+# ** Hello! I'm Natalia Zalizna**
 
 I am learning **Data Analytics** and currently developing practical skills in  SQL and data analysis.  
 
