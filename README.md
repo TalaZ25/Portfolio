@@ -14,7 +14,7 @@ I enjoy working with data, exploring insights, and turning numbers into meaningf
 To become a **Junior Data Analyst**, work with data, and create useful analytical reports.  
 
 ## Projects:
-###  Data Analytics Marathon
+###  Data Analytics Marathon (https://github.com/TalaZ25/data_analytics-marathon/blob/main/README.md)
 A learning project focused on practicing SQL queries in Google BigQuery.  
 **Topics covered:** table filtering, text search, and basic data analysis.  
 **Tools:** Google BigQuery, SQL
