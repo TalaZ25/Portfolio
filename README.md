@@ -1,7 +1,8 @@
 # Portfolio
-# ** Hello! I'm Natalia Zalizna**
+# Hello! I'm Nataliia Zalizna
 
-I am learning **Data Analytics** and currently developing practical skills in  SQL and data analysis.  
+I am learning **Data Analytics** and currently developing practical skills in **SQL**, **Excel**, and **data visualization**.  
+I enjoy working with data, exploring insights, and turning numbers into meaningful stories.
 
 ## Key Skills:
 - SQL
@@ -11,6 +12,14 @@ I am learning **Data Analytics** and currently developing practical skills in  S
 
 ## Goal:
 To become a **Junior Data Analyst**, work with data, and create useful analytical reports.  
+
+## Projects:
+###  Data Analytics Marathon
+A learning project focused on practicing SQL queries in Google BigQuery.  
+**Topics covered:** table filtering, text search, and basic data analysis.  
+**Tools:** Google BigQuery, SQL
+
+
 
 ## Contact:
 📧 [Email](mailto:zaliznaya.n@gmail.com)  
