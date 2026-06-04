@@ -14,18 +14,14 @@ I enjoy working with data, exploring insights, and turning numbers into meaningf
 To become a **Junior Data Analyst**, work with data, and create useful analytical reports.  
 
 ## Projects:
-###  Data Analytics Marathon 2025 june (https://github.com/TalaZ25/data_analytics-marathon/blob/main/README.md)
-A learning project focused on practicing SQL queries in Google BigQuery.  
-**Topics covered:** table filtering, text search, and basic data analysis.  
-**Tools:** Google BigQuery, SQL
-### Data Analytics Marathon 2025 nov (https://github.com/TalaZ25/data-analytics-marathon-2025-nov)
+### Data Analytics Marathon 2025 nov  
+[GitHub Repository](https://github.com/nzalizna/data-analytics-marathon-2025-nov)
 
 ## Other Projects / Inne projekty:
 ### FirmaDostawcza — Fleet Management System (C#)
-[FirmaDostawcza] (https://github.com/nzalizna/csharp-learning/tree/main/FirmaDostawcza)
-Console application in C# demonstrating OOP concepts.
+[GitHub Repository](https://github.com/nzalizna/csharp-learning/tree/main/FirmaDostawcza)  
+Console application in C# demonstrating OOP concepts.  
 **Tools:** C#, .NET
-
 
 ## Contact:
 📧 [Email](mailto:zaliznaya.n@gmail.com)  
