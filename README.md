@@ -14,7 +14,7 @@ I enjoy working with data, exploring insights, and turning numbers into meaningf
 To become a **Junior Data Analyst**, work with data, and create useful analytical reports.  
 
 ## Projects:
-### Data Analytics Marathon 2025 nov  
+### Personal Finance Dashboard (Power BI)  
 [GitHub Repository](https://github.com/nzalizna/data-analytics-marathon-2025-nov)
 
 ## Other Projects / Inne projekty:
